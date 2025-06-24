@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "com_debug.h": "c",
+        "com_delay.h": "c",
+        "int_at6558r.h": "c",
+        "int_ds3553.h": "c",
+        "int_qs100.h": "c",
+        "usart.h": "c",
+        "app_low_power.h": "c",
+        "app_location.h": "c"
+    }
+}

@@ -7,7 +7,7 @@
 #include <string.h>
 
 //调试开关,上线时注释掉
-#define DEBUG_ENABLE
+//#define DEBUG_ENABLE
 
 #ifdef DEBUG_ENABLE
 

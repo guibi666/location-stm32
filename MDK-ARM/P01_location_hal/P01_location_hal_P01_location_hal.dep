@@ -35,7 +35,7 @@ I (../Core/Inc/i2c.h)(0x684AE028)
 I (../Core/Inc/spi.h)(0x684FC357)
 I (../Core/Inc/usart.h)(0x684BD675)
 I (../Core/Inc/gpio.h)(0x68493D35)
-I (../common/Com_Debug.h)(0x68498C95)
+I (../common/Com_Debug.h)(0x685AB5BD)
 I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
@@ -846,7 +846,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x6437E90F)
 F (..\common\Com_Debug.c)(0x68496729)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ../common -I ../Interface -I ../Interface/LoRa -I ..\application-I.\RTE\_P01_location_hal-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o p01_location_hal\com_debug.o --omf_browse p01_location_hal\com_debug.crf --depend p01_location_hal\com_debug.d)
-I (..\common\Com_Debug.h)(0x68498C95)
+I (..\common\Com_Debug.h)(0x685AB5BD)
 I (../Core/Inc/usart.h)(0x684BD675)
 I (../Core/Inc/main.h)(0x684FC358)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h)(0x6437E90F)
@@ -881,7 +881,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x6437E90F)
 I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
-F (..\common\Com_Debug.h)(0x68498C95)()
+F (..\common\Com_Debug.h)(0x685AB5BD)()
 F (..\common\Com_Delay.c)(0x6852CDAD)(--c99 -c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ../Core/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc -I ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I ../Drivers/CMSIS/Include -I ../common -I ../Interface -I ../Interface/LoRa -I ..\application-I.\RTE\_P01_location_hal-ID:\Keil\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include-D__UVISION_VERSION="524" -D_RTE_ -DSTM32F10X_MD -DUSE_HAL_DRIVER -DSTM32F103xB-o p01_location_hal\com_delay.o --omf_browse p01_location_hal\com_delay.crf --depend p01_location_hal\com_delay.d)
 I (..\common\Com_Delay.h)(0x6852CB95)
 I (../Core/Inc/main.h)(0x684FC358)
@@ -916,7 +916,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x6437E90F)
 I (D:\Keil\ARM\ARMCC\include\time.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
-I (..\common\Com_Debug.h)(0x68498C95)
+I (..\common\Com_Debug.h)(0x685AB5BD)
 I (../Core/Inc/usart.h)(0x684BD675)
 I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
@@ -966,7 +966,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x6437E90F)
-I (../common/Com_Debug.h)(0x68498C95)
+I (../common/Com_Debug.h)(0x685AB5BD)
 I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
@@ -1009,7 +1009,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x6437E90F)
 I (../common/Com_Delay.h)(0x6852CB95)
 I (D:\Keil\ARM\ARMCC\include\time.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
-I (../common/Com_Debug.h)(0x68498C95)
+I (../common/Com_Debug.h)(0x685AB5BD)
 I (../Core/Inc/usart.h)(0x684BD675)
 I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
@@ -1050,7 +1050,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x6437E90F)
 I (../common/Com_Delay.h)(0x6852CB95)
 I (D:\Keil\ARM\ARMCC\include\time.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
-I (../common/Com_Debug.h)(0x68498C95)
+I (../common/Com_Debug.h)(0x685AB5BD)
 I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
 I (../common/Com_Config.h)(0x6852CF33)
@@ -1173,7 +1173,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x6437E90F)
-I (../common/Com_Debug.h)(0x68498C95)
+I (../common/Com_Debug.h)(0x685AB5BD)
 I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
@@ -1217,7 +1217,7 @@ I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rtc_ex.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h)(0x6437E90F)
 I (../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h)(0x6437E90F)
-I (../common/Com_Debug.h)(0x68498C95)
+I (../common/Com_Debug.h)(0x685AB5BD)
 I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x588B8344)
 I (D:\Keil\ARM\ARMCC\include\string.h)(0x588B8344)
